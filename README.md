@@ -1,3 +1,7 @@
+<h1 align="center">Retention & Operational Analytics Case Study</h1>
+<p align="center">
+Freemium Model | User Behavior | Growth Strategy | Tableau Dashboard
+</p>
 # Retention, Habit Formation & Growth Dynamics in a Freemium Model
 
 ## Business Case: Dognition User Engagement Analysis  
