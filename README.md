@@ -1,12 +1,13 @@
-<h1 align="center">Retention & Operational Analytics Case Study</h1>
+<h1 align="center">Freemium Product Analysis: Retention, Engagement & Growth Strategy</h1>
 <p align="center">
-Freemium Model | User Behavior | Growth Strategy | Tableau Dashboard
+Freemium Model | User Behavior | SQL Segmentation | Growth Strategy | Tableau Dashboard
 </p>
-# Retention, Habit Formation & Growth Dynamics in a Freemium Model
+
+---
 
 ## Business Case: Dognition User Engagement Analysis  
-**Author:** Ashma Poudel   
-**Tools Used:** Tableau, Excel, GitHub  
+**Author:** Ashma Poudel  
+**Tools Used:** Tableau, SQL, Excel, GitHub  
 
 ---
 
@@ -14,10 +15,13 @@ Freemium Model | User Behavior | Growth Strategy | Tableau Dashboard
 
 This project analyzes user engagement behavior within Dognition’s freemium model to uncover retention gaps, habit formation patterns, and revenue growth volatility.
 
-Using 177,000+ user test records, the analysis identifies where engagement drops, what drives long-term completion, and how monetization timing impacts user behavior.
+Using 177,000+ user test records, the analysis combines:
+
+- **Tableau** → behavioral trends (retention, engagement timing, growth)
+- **SQL** → user segmentation (personality dimensions, breed impact)
 
 The objective:  
-Transform behavioral insights into actionable business recommendations.
+Transform behavioral and segmentation insights into actionable business recommendations.
 
 ---
 
@@ -34,6 +38,7 @@ https://public.tableau.com/views/RetentionHabitFormationGrowthDynamicsinaFreemiu
 - Does engagement consistency predict completion?
 - What time of day drives the highest activity?
 - Is growth sustainable or promotion-driven?
+- Do user characteristics influence engagement?
 - How can retention be improved before monetization?
 
 ---
@@ -54,6 +59,19 @@ Revenue spikes align with free access promotions, indicating unstable organic gr
 
 ---
 
+## 🧩 Supporting Analysis (SQL)
+
+To complement behavioral analysis, SQL was used to evaluate whether user characteristics influence engagement.
+
+### Key Findings:
+- Personality dimensions show minimal variation in test completion
+- Breed type has negligible impact on engagement levels
+- Engagement behavior is consistent across user segments
+
+👉 **Conclusion:** Product experience—not user traits—drives retention.
+
+---
+
 ## 💡 Strategic Recommendations
 
 ### Retention Optimization
@@ -64,7 +82,7 @@ Revenue spikes align with free access promotions, indicating unstable organic gr
 ### Behavioral Reinforcement
 - 24-hour reminder nudges
 - Progress continuation prompts
-- Consistency badge system
+- Consistency-based badge system
 
 ### Revenue Stabilization
 - Reduce dependency on promotional spikes
@@ -85,22 +103,22 @@ Revenue spikes align with free access promotions, indicating unstable organic gr
 
 ## 📂 Repository Structure
 
-- `index.html` → Embedded Tableau Dashboard
-- `SOP_Dognition_Business_Process_Proposal.md` → Full Business Proposal
-- `README.md` → Project Overview
+- `index.html` → Portfolio website (Tableau + SQL + Business case)
+- `Dognition Business Process Improvement Proposal.pdf` → Full proposal
+- `README.md` → Project overview
 
 ---
 
 ## 🎯 Why This Project Matters
 
-This analysis demonstrates:
+This project demonstrates:
 
-- Business problem framing
-- Behavioral data interpretation
-- Retention analytics
-- Product thinking
-- KPI development
-- Monetization strategy design
+- Business problem framing  
+- Behavioral data analysis  
+- SQL-based segmentation  
+- Product & growth thinking  
+- KPI design and tracking  
+- Data-driven decision making  
 
 ---
 
@@ -110,13 +128,14 @@ I am an aspiring Business / Operations Analyst with a strong interest in process
 
 I enjoy working at the intersection of operations and analytics — using data to identify bottlenecks, improve workflows, and support strategic growth initiatives.
 
-Currently, I am seeking opportunities in:
+I am currently seeking opportunities in:
 
-- Business Operations
-- Process Improvement
-- Operational Analytics
-- Business Intelligence
-- Growth & Performance Analysis
+- Business Operations  
+- Process Improvement  
+- Operational Analytics  
+- Business Intelligence  
+- Growth & Performance Analysis  
 
-I am also open to collaborating on data or operations-focused projects and am flexible with remote working environments.
-Let’s connect on LinkedIn.
+I am also open to collaboration on data or operations-focused projects.
+
+🔗 Let’s connect on LinkedIn
